@@ -1,0 +1,14 @@
+{
+    "name": "maree/realtime-online-users",
+    "description": "simple example to explain how to create realtime online/offline users in your system with node js",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "mohamed maree",
+            "email": "m7mdmaree26@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
